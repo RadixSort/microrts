@@ -5,8 +5,11 @@
 package tests;
 
 import ai.core.AI;
-import ai.*;
+import ai.mcts.believestatemcts.BS3_NaiveMCTS;
 import ai.abstraction.LightRush;
+import ai.abstraction.partialobservability.POHeavyRush;
+import ai.abstraction.partialobservability.POLightRush;
+import ai.abstraction.partialobservability.PORangedRush;
 import ai.abstraction.pathfinding.BFSPathFinding;
 import gui.PhysicalGameStatePanel;
 import java.io.OutputStreamWriter;
@@ -35,12 +38,12 @@ public class POGameVisualSimulationTest {
         
 //        AI ai1 = new RandomAI();
 //        AI ai1 = new WorkerRush(UnitTypeTable.utt, new BFSPathFinding());
-        AI ai1 = new LightRush(utt, new BFSPathFinding());
+        AI ai1 = new POLightRush(utt, new BFSPathFinding());
 //        AI ai1 = new RangedRush(UnitTypeTable.utt, new GreedyPathFinding());
 //        AI ai1 = new ContinuingNaiveMC(PERIOD, 200, 0.33f, 0.2f, new RandomBiasedAI(), new SimpleEvaluationFunction());
 
-        AI ai2 = new RandomBiasedAI();
-//        AI ai2 = new LightRush();
+        AI ai2 = new POHeavyRush(utt, new BFSPathFinding());
+//        AI ai2 = new POLightRush(utt, new BFSPathFinding());
         
         XMLWriter xml = new XMLWriter(new OutputStreamWriter(System.out));
         pgs.toxml(xml);

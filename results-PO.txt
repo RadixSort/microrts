@@ -1,0 +1,129 @@
+MATCH UP: RandomAI vs RandomAI
+Winner: -1  in 3000 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: 1  in 1390 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: -1  in 3000 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: 0  in 2955 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: 1  in 1610 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: 1  in 1815 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: 1  in 1000 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: -1  in 3000 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: -1  in 3000 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomAI
+Winner: -1  in 3000 cycles
+RandomAI : null
+RandomAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 1135 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 950 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 1185 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 1415 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 620 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 1075 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 875 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 1245 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 605 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs RandomBiasedAI
+Winner: 1  in 850 cycles
+RandomAI : null
+RandomBiasedAI : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 589 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 604 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 719 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: -1  in 1480 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 674 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: -1  in 1480 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 629 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 635 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 720 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(LightRush(BFSPathFinding))
+Winner: 1  in 628 cycles
+RandomAI : null
+PseudoContinuingAI(LightRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(RangedRush(BFSPathFinding))
+Winner: -1  in 1480 cycles
+RandomAI : null
+PseudoContinuingAI(RangedRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(RangedRush(BFSPathFinding))
+Winner: 1  in 565 cycles
+RandomAI : null
+PseudoContinuingAI(RangedRush(BFSPathFinding)) : null
+MATCH UP: RandomAI vs PseudoContinuingAI(RangedRush(BFSPathFinding))
